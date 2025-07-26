@@ -44,4 +44,4 @@ I’m currently working on some exciting full-stack applications. Will update th
 
 ---
 
-“Code is like humor. When you have to explain it, it’s bad.” 😄
+“Code is like humor. When you have to explain it, it’s bad.” 
