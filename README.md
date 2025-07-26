@@ -23,9 +23,17 @@ I’m currently working on some exciting full-stack applications. Will update th
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications, Workshops & Internship
 
-- [List your certifications here, like "Full Stack Developer - Udemy" or "React Basics - Coursera"]
+- 🛠 *Internship – AI/ML Technology*  
+  Completed at *TANSAM* from March 2 to March 25, 2024
+
+- 🤖 *AI with Machine Learning – 2-Day Workshop*  
+  Conducted by Edutech Life in association with Mechanica 2025, IIT Madras (Feb 22–23, 2025)
+
+- 📱 *Android Floss and Networks Workshop*  
+  Participated in REVI'L 25 – National Level Symposium  
+  Organized by Dept. of CSE (Cybersecurity), Chennai Institute of Technology
 
 ---
 
